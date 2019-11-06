@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>App.HaTinhTrade.com</title>
+    <title>Sàn GDTMĐT Hà Tĩnh</title>
 
     <!-- Bootstrap core CSS -->
     <link href="<?php echo base_url('css/bootstrap.min.css');?>" rel="stylesheet">
@@ -41,7 +41,7 @@
 
 						<h2>
 						<label class="login-title">
-						Mokets
+						Sàn GDTMĐT Hà Tĩnh
 						</label>
 						</h2>
 						<hr/>
