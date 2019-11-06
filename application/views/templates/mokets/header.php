@@ -8,7 +8,7 @@
         <meta name="author" content="">
         <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-        <title>Mokets</title>
+        <title>App.HaTinhTrade.com</title>
 
         <!-- Bootstrap core CSS -->
         <link href="<?php echo base_url('css/bootstrap.min.css');?>" rel="stylesheet">
