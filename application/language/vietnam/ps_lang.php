@@ -345,4 +345,4 @@ $lang['btn_about_app']                 = "About App";
 
 
 /* End of file ps_lang.php */
-/* Location: ./system/language/english/ps_lang.php */
+/* Location: ./system/language/vietnam/ps_lang.php */
