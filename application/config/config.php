@@ -13,8 +13,8 @@
 | path to your installation.
 |
 */
-$config['sender_email']	= 'no_reply@mokets.com';
-$config['sender_name'] = 'Mokets';
+$config['sender_email']	= 'dungthinhvn@gmail.com';
+$config['sender_name'] = 'Dang Quoc Dung';
 $config['stripe_secret_key'] = "sk_test_lxHim6W6aJAjb4jjAtfviY0t";
 $config['fcm_api_key']  = "AIzaSyC8knOj8F1_a0wxLg9Nu9T80q4UsYz9xHU"; 
 //AIzaSyDiBtYWlAxEwHdnzuWRz7eWWaTQrpKQruw
