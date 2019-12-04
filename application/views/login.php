@@ -58,13 +58,13 @@
 						<?php endif;?>
 						
 						<div class="form-group">
-							<label><font color="#fff">Username</font></label>
-							<input class="form-control" type="text" id="inputEmail" placeholder="Username" name='user_name'>
+							<label><font color="#fff">Tên đăng nhập</font></label>
+							<input class="form-control" type="text" id="inputEmail" placeholder="Tên đăng nhập" name='user_name'>
 						</div>
 						
 						<div class="form-group">
-							<label><font color="#fff">Password</font></label>
-							<input class="form-control" type="password" id="inputPassword" placeholder="Password" name='user_pass'>
+							<label><font color="#fff">Mật khẩu</font></label>
+							<input class="form-control" type="password" id="inputPassword" placeholder="Mật khẩu" name='user_pass'>
 						</div>
 						
 						<!--
