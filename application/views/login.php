@@ -73,10 +73,10 @@
 						   <input type="radio" name="user_type" value="shops" />&nbsp;&nbsp;<label><font color="#fff">Shop Admin</font></label>
 						</div>
 						-->		
-						<button class="btn btn-primary" type="submit">Sign in</button>
+						<button class="btn btn-primary" type="submit">Đăng nhập</button>
 										
 					<?php echo form_close();  ?>
-			</div>
+			</div>a
 		</div>
 	</div>
 	<script>
