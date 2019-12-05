@@ -148,7 +148,7 @@ $lang['money_form_label'] = "Mẫu tiền tệ ngắn (ví dụ: USD)";
 $lang['money_symbol_tooltips'] = "Vui lòng cung cấp ký hiệu tiền tệ. Eg; $";
 $lang['money_form_tooltips'] = "Vui lòng cung cấp dạng tiền ngắn. Ví dụ: USD";
 
-$lang['shop_list_label'] = "Danh sách gian hàng";
+$lang['shops_list_label'] = "Danh sách gian hàng";
 $lang['shop_info_label'] = "Thông tin gian hàng";
 $lang['phone_label'] = "Điện thoại";
 $lang['contact_email_label'] = "Email liên hệ";
