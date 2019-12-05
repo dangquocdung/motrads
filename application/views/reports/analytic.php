@@ -1,5 +1,5 @@
 			<?php
-			$this->lang->load('ps', 'english');
+			$this->lang->load('ps', 'vietnam');
 			$attributes = array('class' => 'form-inline','method' => 'POST');
 			echo form_open(site_url('reports/analytic'), $attributes);
 			?>

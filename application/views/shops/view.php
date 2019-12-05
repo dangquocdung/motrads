@@ -10,7 +10,7 @@
 
 	    <title>
 	    	<?php
-	    		$this->lang->load('ps', 'english');
+	    		$this->lang->load('ps', 'vietnam');
 	    		echo $this->lang->line('site_title');
 	    	?>
 	    </title>

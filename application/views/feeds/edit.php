@@ -1,5 +1,5 @@
 			<?php
-			$this->lang->load('ps', 'english');
+			$this->lang->load('ps', 'vietnam');
 			?>
 			<ul class="breadcrumb">
 				<li><a href="<?php echo site_url(). "/dashboard";?>"><?php echo $this->lang->line('dashboard_label')?></a> <span class="divider"></span></li>
@@ -8,7 +8,7 @@
 			</ul>
 			<div class="wrapper wrapper-content animated fadeInRight">
 			<?php
-			$this->lang->load('ps', 'english');
+			$this->lang->load('ps', 'vietnam');
 			$attributes = array('id' => 'feed-form','enctype' => 'multipart/form-data');
 			echo form_open(site_url("feeds/edit/".$feed->id), $attributes);
 			?>

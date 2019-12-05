@@ -1,5 +1,5 @@
 <?php
-$this->lang->load('ps', 'english');
+$this->lang->load('ps', 'vietnam');
 ?>
 <?php $this->load->view('templates/mokets/header');?>
 	<div class='fluid-container'>

@@ -1,5 +1,5 @@
 			<?php
-			$this->lang->load('ps', 'english');
+			$this->lang->load('ps', 'vietnam');
 			?>
 			<div class='row'>
 				<div class='col-sm-12'>

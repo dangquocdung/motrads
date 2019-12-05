@@ -1,5 +1,5 @@
 			<?php
-				$this->lang->load('ps', 'english');
+				$this->lang->load('ps', 'vietnam');
 			?>
 			<ul class="breadcrumb">
 				<li><a href="<?php echo site_url() . "/dashboard";?>"><?php echo $this->lang->line('dashboard_label')?></a> <span class="divider"></span></li>

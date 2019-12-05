@@ -1,5 +1,5 @@
 			<?php
-				$this->lang->load('ps', 'english');
+				$this->lang->load('ps', 'vietnam');
 				
 			?>
 			<ul class="breadcrumb">

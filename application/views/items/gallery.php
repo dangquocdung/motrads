@@ -9,7 +9,7 @@
 <noscript><link rel="stylesheet" href="<?php echo base_url('assets/css/jquery.fileupload-noscript.css');?>"></noscript>
 <noscript><link rel="stylesheet" href="<?php echo base_url('assets/css/jquery.fileupload-ui-noscript.css');?>"></noscript>
 	<?php
-		$this->lang->load('ps', 'english');
+		$this->lang->load('ps', 'vietnam');
 	?>
 	<ul class="breadcrumb">
 		<li><a href="<?php echo site_url();?>"><?php echo $this->lang->line('dashboard_label')?></a> <span class="divider"></span></li>
