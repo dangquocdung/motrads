@@ -38,7 +38,7 @@
 				?>
 				<li>
 					<a href="<?php echo site_url("shops") ?>">
-						Switch Shops
+						Đổi gian hàng
 						<span class='glyphicon glyphicon-transfer menu-icon'></span>
 					</a>
 				</li>

@@ -41,7 +41,7 @@
 
 						<h2>
 						<label class="login-title">
-						Sàn GDTMĐT Hà Tĩnh
+							Sàn GDTMĐT Hà Tĩnh
 						</label>
 						</h2>
 						<hr/>
