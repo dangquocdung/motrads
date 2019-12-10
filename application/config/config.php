@@ -53,9 +53,7 @@ if ( strlen( substr($_SERVER['REQUEST_URI'], 0, stripos($_SERVER['REQUEST_URI'],
 
 }
 
-$config['base_url'] = "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
-
-
+$config['base_url'] = "http://" . $_SERVER['HTTP_HOST'];
 /*
 |--------------------------------------------------------------------------
 | Index File
