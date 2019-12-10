@@ -400,7 +400,7 @@
 				
 				
 				$('#us3').locationpicker({
-				    location: {latitude: 18.33544149600013, longitude: 105.90665817260742},
+				    location: {latitude: 18.3359168, longitude: 105.9053929},
 				    radius: 300,
 				    inputBinding: {
 				        latitudeInput: $('#lat'),
