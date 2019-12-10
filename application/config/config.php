@@ -19,7 +19,7 @@ $config['stripe_secret_key'] = "sk_test_lxHim6W6aJAjb4jjAtfviY0t";
 $config['fcm_api_key']  = "AIzaSyCDMRkSRWogU0pLOXrBD6vINnOK_m6DqSQ"; 
 //AIzaSyDiBtYWlAxEwHdnzuWRz7eWWaTQrpKQruw
 //AIzaSyD0RLpu6xnK2ZMeWYr7H-yQi29phm8KPqY
-$config['gmap_api_key'] = "AIzaSyBBxpTVVj6wPKHkREt0g12oBtswlqNzoeQ";
+$config['gmap_api_key'] = "AIzaSyAd8n-tF1_0M5WSEBtUaAYzwIzw9PGDTaI";
 
 $config['pending_color']  = "#f23939";
 $config['confirm_color']  = "#219427";
