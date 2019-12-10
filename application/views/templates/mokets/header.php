@@ -40,8 +40,10 @@
          
          <!-- For Location Picker -->
         <script src="<?php echo base_url('js/location/locationpicker.jquery.min.js');?>"></script>
-        <script type="text/javascript" src='http://maps.google.com/maps/api/js?sensor=false&libraries=places&key=
-        <?php echo $this->config->item('gmap_api_key');?>'></script>
+
+        <script async defer src='https://maps.googleapis.com/maps/api/js?key=<?php echo $this->config->item('gmap_api_key');?>&callback=initMap' type="text/javascript"></script>
+        <!-- <script type="text/javascript" src='http://maps.google.com/maps/api/js?sensor=false&libraries=places&key=
+        <?php echo $this->config->item('gmap_api_key');?>'></script> -->
 
         <?php $this->load->view( 'analytic' ); ?>
     </head>
