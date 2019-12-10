@@ -11,21 +11,21 @@
         <title>Sàn GDTMĐT Hà Tĩnh</title>
 
         <!-- Bootstrap core CSS -->
-        <link href="<?php echo base_url('css/bootstrap.min.css');?>" rel="stylesheet">
+        <link href="<?php echo base_url('/css/bootstrap.min.css');?>" rel="stylesheet">
         
         <!-- Animation core CSS -->
-        <link href="<?php echo base_url('css/animate.css');?>" rel="stylesheet">
+        <link href="<?php echo base_url('/css/animate.css');?>" rel="stylesheet">
 
         <!-- Custom styles for this template -->
     	 <link href="<?php echo base_url('fonts/ptsan/stylesheet.css');?>" rel="stylesheet">
-        <link href="<?php echo base_url('css/dashboard.css');?>" rel="stylesheet">
-        <link href="<?php echo base_url('css/bootstrap-datetimepicker.min.css');?>" rel="stylesheet">
+        <link href="<?php echo base_url('/css/dashboard.css');?>" rel="stylesheet">
+        <link href="<?php echo base_url('/css/bootstrap-datetimepicker.min.css');?>" rel="stylesheet">
         
         <!-- Menu CSS -->
-        <link href="<?php echo base_url('css/menu/metisMenu.min.css');?>" rel="stylesheet">
+        <link href="<?php echo base_url('/css/menu/metisMenu.min.css');?>" rel="stylesheet">
         
         <!-- Font CSS -->
-        <link href="<?php echo base_url('css/font-awesome/css/font-awesome.min.css');?>" rel="stylesheet">
+        <link href="<?php echo base_url('/css/font-awesome/css/font-awesome.min.css');?>" rel="stylesheet">
         
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="<?php echo base_url('js/jquery.js');?>"></script>
