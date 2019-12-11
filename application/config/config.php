@@ -16,7 +16,7 @@
 $config['sender_email']	= 'dungthinhvn@gmail.com';
 $config['sender_name'] = 'Dang Quoc Dung';
 $config['stripe_secret_key'] = "sk_test_lxHim6W6aJAjb4jjAtfviY0t";
-$config['fcm_api_key']  = "AIzaSyCDMRkSRWogU0pLOXrBD6vINnOK_m6DqSQ"; 
+$config['fcm_api_key']  = "AIzaSyAd8n-tF1_0M5WSEBtUaAYzwIzw9PGDTaI"; 
 //AIzaSyDiBtYWlAxEwHdnzuWRz7eWWaTQrpKQruw
 //AIzaSyD0RLpu6xnK2ZMeWYr7H-yQi29phm8KPqY
 $config['gmap_api_key'] = "AIzaSyAd8n-tF1_0M5WSEBtUaAYzwIzw9PGDTaI";
