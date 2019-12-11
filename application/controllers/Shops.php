@@ -398,17 +398,18 @@ class Shops extends Main
 				// IOS Push Notification
 				$devices = $this->gcm_token->get_all_by(array('os_type' => 'IOS'))->result();;
 	
-				if ( count( $devices ) > 0 ) {
-					foreach ( $devices as $device ) {
-						if ( ! $this->sendMessageThroughIOS( $device->reg_id, $message )) {
-							$error_msg .= "Fail to push ios device named ". $device->reg_id ."<br/>";
-							//echo $error_msg;
-						} else {
-							//echo " Sent to : " . $device->reg_id;
-							$success_device_log .= " Device Id : " . $device->reg_id . "<br>";
-						}
-					}
-				}
+				// if ( count( $devices ) > 0 ) {
+				// 	foreach ( $devices as $device ) {
+				// 		if ( ! $this->sendMessageThroughIOS( $device->reg_id, $message )) {
+				// 			$error_msg .= "Fail to push ios device named ". $device->reg_id ."<br/>";
+				// 			//echo $error_msg;
+				// 		} else {
+				// 			//echo " Sent to : " . $device->reg_id;
+				// 			$success_device_log .= " Device Id : " . $device->reg_id . "<br>";
+				// 		}
+				// 	}
+				// }
+				
 				//die;
 				// response message
 				if ( $status ) {
